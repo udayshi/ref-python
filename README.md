@@ -50,5 +50,7 @@
 - Decorators, generators, iterators
 - Multithreading, multiprocessing, asynchronous programming
 
-- [Flask] (flask.md)
-- [Django] (django.md)
+## Frameworks
+
+- [Flask](flask.md)
+- [Django](django.md)
