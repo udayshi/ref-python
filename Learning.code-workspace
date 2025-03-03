@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "core-learning"
+		},
+		{
+			"path": "fast-api-pydantic-sqlalchemy"
+		}
+	],
+	"settings": {}
+}
