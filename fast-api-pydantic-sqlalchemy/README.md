@@ -13,6 +13,8 @@ This project is a basic implementation of a CRUD application using FastAPI, SQLA
 ## Setup
 
 ```
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 uvicorn main:app --port 8080  --reload
 http://127.0.0.1:8080
