@@ -10,6 +10,7 @@ This project is a basic implementation of a CRUD application using FastAPI, SQLA
 - SQLite as the default database (can be replaced with other databases).
 
 
+
 ## Setup
 
 ```
