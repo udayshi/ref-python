@@ -9,5 +9,6 @@ portfolio = [
    {'name': 'ACME', 'shares': 75, 'price': 115.65}
 ]
 
+
 cheap = heapq.nsmallest(3, portfolio, key=lambda s: s['price']) #Cheapest 3 item
 expensive = heapq.nlargest(2, portfolio, key=lambda s: s['price'])#Expensive 2 item

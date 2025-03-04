@@ -30,6 +30,10 @@ a={'name':'uday','age':'40'}
 for i in a.values():
     print(i) #uday 40
 
+a={'name':'uday','age':'40'}
+for row in a.items():
+    print(row[0])
+
 a=['name','age']
 b=['uday','40']
 for k,v in zip(a,b):
