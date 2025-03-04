@@ -1,0 +1,1 @@
+a=u'this is unicode string'
