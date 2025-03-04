@@ -10,5 +10,5 @@ class ItemCreate(ItemBase):
 class Item(ItemBase):
     id: int
 
-    class Config:
+    class ConfigDict:
         from_attributes = True
