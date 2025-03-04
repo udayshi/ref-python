@@ -13,6 +13,7 @@ This project is a basic implementation of a CRUD application using FastAPI, SQLA
 
 ## Setup
 
+
 ```
 python3 -m venv .venv
 source .venv/bin/activate
