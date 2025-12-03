@@ -62,3 +62,4 @@
 
 - Optimizing Flask applications for performance
 - Following Flask coding conventions and best practices
+Uday Shiwakoti
